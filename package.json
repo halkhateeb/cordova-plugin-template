@@ -1,0 +1,23 @@
+{
+    "version": "0.0.0",
+    "name": "cordova-plugin-template",
+    "cordova_name": "CordovaPluginTemplate",
+    "description": "Cordova Plugin Template",
+    "license": "Apache 2.0",
+    "author": {
+        "name": "Hussein Al-Khateeb",
+        "email": "ajeekdev@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AjeekDev/cordova-plugin-template.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AjeekDev/cordova-plugin-template/issues"
+    },
+    "keywords": [
+        "cordova",
+        "plugin",
+        "template"
+    ]
+}
