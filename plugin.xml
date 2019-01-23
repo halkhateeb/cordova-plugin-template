@@ -18,10 +18,6 @@
       </feature>
     </config-file>
 
-    <config-file target="AndroidManifest.xml" parent="/*">
-			<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    </config-file>
-
     <source-file src="src/android/Template.java" target-dir="src/cordova/plugin" />
   </platform>
 
